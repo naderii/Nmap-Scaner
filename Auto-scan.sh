@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Automated Nmap Scan Script
-# Author: Mehdi Abdollahi
+# Author: Nader Naderinia
 
 # Colors for output
 RED="\e[31m"
